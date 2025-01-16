@@ -1,8 +1,3 @@
-# Welcome to My Portfolio! 👋
-
-## About This Page 📖
-This page serves as my personal portfolio, showcasing my journey, skills, and achievements. Here, you’ll find information about my background, contact details, education, CV, and the projects I’ve worked on.
-
 ---
 
 ## Contact Information 📬
