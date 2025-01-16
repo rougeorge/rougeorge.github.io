@@ -1,5 +1,3 @@
-#georgerou.github.io
-
 # Welcome to My Portfolio! 👋
 
 ## About This Page 📖
