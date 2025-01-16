@@ -1,9 +1,11 @@
 ---
 ---
-
 @import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400&display=swap');
+
 /* Custom styles */
 body {
   font-family: Consolas, Menlo, Monaco, "Courier New", monospace;
 }
+
 
