@@ -21,11 +21,6 @@ Feel free to reach out to me for collaborations or inquiries.
 - **Institution**: University of West Attica  
 - **Field of Study**: Informatics and Computer Engineering
 - **Duration**: 2017 - 2025 
-<!-- This section is for certifications
-### [Another Degree or Certification]
-- **Institution**: Another Institution Name  
-- **Certification/Degree**: Certification Name  
-- **Year Obtained**: Year   -->
 
 ---
 
