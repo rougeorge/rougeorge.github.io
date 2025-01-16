@@ -1,4 +1,3 @@
----
 
 ## Contact Information 📬
 Feel free to reach out to me for collaborations or inquiries.
