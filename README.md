@@ -9,7 +9,7 @@ This page serves as my personal portfolio, showcasing my journey, skills, and ac
 Feel free to reach out to me for collaborations or inquiries.
 
 - **Email**: [georgeroutsi@gmail.com](mailto:georgeroutsi@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/george-routsis-6b4592221/)
+- **LinkedIn**: [George Routsi](https://www.linkedin.com/in/george-routsis-6b4592221/)
 - **GitHub**: [Your GitHub Profile](https://github.com/rougeorge)
 
 
