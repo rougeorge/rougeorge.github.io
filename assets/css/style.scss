@@ -1,4 +1,15 @@
 ---
 ---
 @import "{{ site.theme }}";
-/* Add your custom styles here */
+
+/* assets/css/style.scss */
+
+/* Custom font family */
+body {
+  font-family: 'Fira Code', monospace;
+}
+
+/* Example custom background color */
+body {
+  background-color: #f0f0f0;
+}
