@@ -2,11 +2,6 @@ title: Portfolio
 #logo
 description: [This page serves as my personal portfolio, showcasing my journey skills and achievements. Here, you’ll find information about my background, contact details, education, CV, and the projects I’ve worked on.]
 #show_downloads:true
-icon: [path to file including extension]
-colorspace: [primary page color cyan/green/orange/pink/purple/red/yellow]
+colorspace: [primary page color purple/red/yellow]
 remote_theme: "dracula/gh-pages"
 
-
-sass:
-  sass_dir: assets/css
-  
