@@ -1,9 +1,10 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+/* Import from the theme */
+@import "dracula";
 
-/* Add your custom styles below */
+/* Add your custom styles */
 body {
   font-family: 'Consolas', monospace !important;
 }
