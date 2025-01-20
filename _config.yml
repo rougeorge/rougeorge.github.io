@@ -4,7 +4,3 @@ description: [This page serves as my personal portfolio, showcasing my journey, 
 #show_downloads:true
 remote_theme: "dracula/gh-pages"
 
-# Custom styles
-sass:
-  load_paths:
-    - _sass
