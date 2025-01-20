@@ -3,8 +3,7 @@ title: Portfolio
 description: [This page serves as my personal portfolio, showcasing my journey skills and achievements. Here, you’ll find information about my background, contact details, education, CV, and the projects I’ve worked on.]
 #show_downloads:true
 remote_theme: "dracula/gh-pages"
-custom_font: "'Consolas', monospace" # Front matter variable for font
-layout: default
+
 
 sass:
   sass_dir: assets/css
