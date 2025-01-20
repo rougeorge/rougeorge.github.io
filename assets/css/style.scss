@@ -3,3 +3,8 @@
 
 @import "{{ site.theme }}";
 
+// In your assets/css/style.scss
+body {
+  font-family: 'Consolas', monospace;
+}
+
