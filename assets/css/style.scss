@@ -1,3 +1,13 @@
 ---
 ---
+
+/* Set the font-family variable before importing the theme */
+$body-font-family: 'Consolas', monospace;
+
+/* Import the theme's styles */
 @import "{{ site.theme }}";
+
+/* Optional: Add additional custom CSS here */
+body {
+  font-family: $body-font-family; /* Reinforce the font-family in case of overrides */
+}
