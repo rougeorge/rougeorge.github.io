@@ -5,3 +5,6 @@ description: [This page serves as my personal portfolio, showcasing my journey s
 remote_theme: "dracula/gh-pages"
 custom_font: "'Consolas', monospace" # Front matter variable for font
 layout: default
+
+sass:
+  sass_dir: assets/css
