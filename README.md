@@ -49,5 +49,5 @@ Here are some of the projects I’ve worked on:
 
 --->
 
-Thank you for visiting my portfolio! 😊  
+Thank you for visiting my portfolio! 
 Stay connected and feel free to explore my work.
