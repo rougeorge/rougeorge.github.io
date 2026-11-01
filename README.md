@@ -8,7 +8,23 @@ Feel free to reach out to me for collaborations or inquiries.
 - **GitHub**: [georgerou](https://github.com/rougeorge)
 
 ---
+## Experience 💼
 
+### Production Support Engineer, Optasia
+
+**NOC / Production Operations & Technical Support** | Athens, Greece | May 2025 – Present
+
+- Monitor and troubleshoot production services, APIs, integrations and transaction flows across ~60 active projects in Linux environments, working against multiple SLA targets.
+- Investigate and resolve incidents using application logs and monitoring dashboards (Kibana, Grafana).
+- Troubleshoot application, infrastructure, network and connectivity issues to minimize service disruption for clients and end users.
+- Query PostgreSQL (`psql`) to search logs across tables, verify data integrity and profile data during transaction and delivery investigations.
+- Trace SMS gateway connectivity and message delivery failures across integrations and service layers.
+- Perform network diagnostics and packet-level analysis (Wireshark, TCP/IP) to isolate root causes.
+- Work with clients and engineering teams through escalation and resolution workflows to drive fixes.
+
+**Tools:** Linux, Kibana, Grafana, PostgreSQL, Wireshark, Docker, Nginx, JBoss/WildFly
+
+* * *
 ## Education 🎓
 ### [Integrated BS/MS]
 - **Institution**: University of West Attica  
