@@ -32,7 +32,17 @@ Feel free to reach out to me for collaborations or inquiries.
 - **Duration**: 2017 - 2025 
 
 ---
+## Projects 🛠️
 
+Here are some of the projects I’ve worked on:
+
+### [Azure SOC Lab](https://github.com/rougeorge/SOC-Lab)
+
+Segmented Azure network with NSG firewall rules, a jump box and an ELK (Elasticsearch + Kibana) SIEM, built with the Azure CLI and Docker. Phase 1 is complete. The repo includes the build scripts, an [architecture write-up](https://github.com/rougeorge/SOC-Lab/blob/main/docs/architecture.md) and a [troubleshooting log](https://github.com/rougeorge/SOC-Lab/blob/main/docs/troubleshooting.md).
+
+**Tech:** Azure, NSGs, Docker, Ansible, Elasticsearch, Kibana
+
+* * *
 <!-- 
 ## Projects 🚀
 Here are some of the projects I’ve worked on:
