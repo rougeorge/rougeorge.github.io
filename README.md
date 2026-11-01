@@ -4,7 +4,7 @@
 Feel free to reach out to me for collaborations or inquiries.
 
 - **Email**: [georgeroutsi@gmail.com](mailto:georgeroutsi@gmail.com)
-- **LinkedIn**: [George Routsi](https://www.linkedin.com/in/george-routsis-6b4592221/)
+- **LinkedIn**: [George Routsi](https://www.linkedin.com/in/george-routsi-6b4592221/)
 - **GitHub**: [georgerou](https://github.com/rougeorge)
 
 ---
